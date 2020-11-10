@@ -6,6 +6,6 @@
     "wait-on": "5.2.0"
   },
   "dependencies": {
-    "dayjs": "1.9.5"
+    "dayjs": "1.9.6"
   }
 }
