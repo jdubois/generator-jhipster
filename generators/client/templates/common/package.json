@@ -1,7 +1,7 @@
 {
   "devDependencies": {
     "@cypress/code-coverage": "3.9.12",
-    "babel-loader": "8.2.3",
+    "babel-loader": "9.0.0",
     "babel-plugin-istanbul": "6.1.1",
     "cypress": "9.2.1",
     "eslint-plugin-cypress": "2.12.1",
